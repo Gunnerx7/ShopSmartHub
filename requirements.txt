@@ -4,4 +4,3 @@ Pillow==10.1.0
 PyMySQL==1.1.0
 pytz==2020.5
 sqlparse==0.4.1
-pytjon==3.9
